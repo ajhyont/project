@@ -1,0 +1,44 @@
+body{
+	background:url("images/homepage_background.jpg") no-repeat fixed;		
+	background-size: 230vh 100vh;
+	margin:0; padding:0;
+}
+html{
+	margin:0; padding:0;	
+}
+.container{
+	border: 2px solid green;
+	margin: auto;
+	background-color: rgba(102,153,204, 0.4 );	
+}
+img{
+	border-radius: 50%;
+	width:30%; height:100%; 
+	margin: auto;	
+}
+
+#secondRow{
+	background-color: rgba(102,153,204, 0.4 );
+}
+#secondRow h1{
+	margin-left: auto;
+	margin-right: auto;		
+	text-align: center;		
+}
+
+#thirdRow{
+	background-color: rgba(102,153,204, 0.4 );
+}
+#thirdRow img{	
+	height: 50vh; width: 50vh;
+	margin-left: auto;
+	margin-right: auto;		
+	margin-left: 35%;
+}
+#fourthRow {
+	background-color: rgba(102,153,204, 0.4 );
+	text-align: center;	
+}
+#fourthRow h1{
+	font-weight: bold;
+}
